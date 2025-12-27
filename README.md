@@ -3,7 +3,6 @@
 A machine learning–powered clinical decision support system built using a Decision Tree Classifier to predict whether a breast tumor is Benign or Malignant based on tumor measurement features.
 The application is deployed using Streamlit with an interactive UI for real-time predictions and feature importance analysis.
 
-⚠️ Disclaimer: This project is for educational purposes only and should not be used as a medical diagnosis tool.
 
 🚀 Features
 
@@ -22,6 +21,7 @@ The application is deployed using Streamlit with an interactive UI for real-time
 🌙 Modern dark-themed Streamlit UI
 
 🖥️ Application Interface
+First ["Screenshot 2025-12-27 234247.png"]
 🔍 Tumor Measurement Inputs
 
 Users can input values for key tumor features such as:
