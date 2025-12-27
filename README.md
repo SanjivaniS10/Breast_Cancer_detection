@@ -21,8 +21,11 @@ The application is deployed using Streamlit with an interactive UI for real-time
 🌙 Modern dark-themed Streamlit UI
 
 🖥️ Application Interface
-first ["https://github.com/SanjivaniS10/Breast_Cancer_detection/blob/main/Screenshot%202025-12-27%20234247.png"]
-secong
+
+
+first (https://github.com/SanjivaniS10/Breast_Cancer_detection/blob/main/Screenshot%202025-12-27%20234247.png)
+
+Second (https://github.com/SanjivaniS10/Breast_Cancer_detection/blob/main/Screenshot%202025-12-27%20225148.png)
 
 
 🔍 Tumor Measurement Inputs
