@@ -27,6 +27,10 @@ The application is deployed using Streamlit with an interactive UI for real-time
 
 ![Second](https://github.com/SanjivaniS10/Breast_Cancer_detection/blob/main/Screenshot%202025-12-27%20225148.png)
 
+Report Generate in CSV file 
+
+![report](https://github.com/SanjivaniS10/Breast_Cancer_detection/blob/main/Screenshot%202025-12-27%20235434.png)
+
 
 🔍 Tumor Measurement Inputs
 
