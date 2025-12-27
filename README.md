@@ -21,7 +21,7 @@ The application is deployed using Streamlit with an interactive UI for real-time
 🌙 Modern dark-themed Streamlit UI
 
 🖥️ Application Interface
-First ["Screenshot 2025-12-27 234247.png"]
+
 🔍 Tumor Measurement Inputs
 
 Users can input values for key tumor features such as:
